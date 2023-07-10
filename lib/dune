@@ -1,0 +1,6 @@
+(library
+ (name doit)
+ (modules repo_intf file task)
+ (libraries unix)
+)
+
